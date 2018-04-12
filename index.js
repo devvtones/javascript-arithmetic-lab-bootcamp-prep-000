@@ -30,6 +30,6 @@ function dec(a){
 }
 
 function makeInt(a){
-  number = parseInt(a, 10);
-  return number;
+  Number = parseInt(a, 10);
+  return Number;
 }
