@@ -23,3 +23,9 @@ function inc(a){
   Number = a + 1;
   return Number
 }
+
+function dec(a){
+  Number = a - 1;
+  return Number
+}
+
