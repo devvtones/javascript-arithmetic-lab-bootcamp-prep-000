@@ -19,4 +19,7 @@ function divide(a, b){
   return Number;
 }
 
-fucntion inc()
+function inc(a){
+  Number = a + 1;
+  return Number
+}
