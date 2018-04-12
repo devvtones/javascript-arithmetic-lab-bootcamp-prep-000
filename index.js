@@ -18,3 +18,5 @@ function divide(a, b){
   Number = a / b;
   return Number;
 }
+
+var number = n
