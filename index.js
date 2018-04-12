@@ -19,4 +19,4 @@ function divide(a, b){
   return Number;
 }
 
-var number = n
+fucntion inc()
