@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 2,
-    "start": "2018-04-12T23:37:12.683Z",
-    "end": "2018-04-12T23:37:12.868Z",
-    "duration": 185
+    "start": "2018-04-12T23:37:24.195Z",
+    "end": "2018-04-12T23:37:24.387Z",
+    "duration": 192
   },
   "tests": [
     {
       "title": "add(a, b) adds two numbers and returns the result",
       "fullTitle": " add(a, b) adds two numbers and returns the result",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "divide(a, b) divides a by b and returns the result",
       "fullTitle": " divide(a, b) divides a by b and returns the result",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "assumes base 10",
       "fullTitle": "makeInt(n) assumes base 10",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -121,7 +121,7 @@
     {
       "title": "add(a, b) adds two numbers and returns the result",
       "fullTitle": " add(a, b) adds two numbers and returns the result",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -142,7 +142,7 @@
     {
       "title": "divide(a, b) divides a by b and returns the result",
       "fullTitle": " divide(a, b) divides a by b and returns the result",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -170,7 +170,7 @@
     {
       "title": "assumes base 10",
       "fullTitle": "makeInt(n) assumes base 10",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
