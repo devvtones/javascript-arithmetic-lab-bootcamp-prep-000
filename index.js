@@ -13,3 +13,8 @@ function multiply(a, b){
   Number = a * b; 
   return Number;
 }
+
+function divide(a, b){
+  Number = a / b;
+  return Number;
+}
